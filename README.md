@@ -22,7 +22,7 @@ After that run :
 npm run migrate
 ```
 
-If you want to view the database using a GUI, run this command and open [http://localhost:3000](http://localhost:3000) with your browser:
+If you want to view the database using a GUI, run this command and open [http://localhost:5555](http://localhost:5555) with your browser:
 ```sh
 npm run studio
 ```
